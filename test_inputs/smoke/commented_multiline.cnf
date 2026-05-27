@@ -1,0 +1,10 @@
+c satisfiable: exercises comments after the header and clauses split across lines
+p cnf 3 3
+c force x1
+1
+0
+c force x2 through a binary clause
+-1 2 0
+c x3 can remain arbitrary
+3 -2
+0

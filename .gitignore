@@ -1,0 +1,4 @@
+code/fast
+code/xcheck_*.output
+code/perf.*
+*.o
